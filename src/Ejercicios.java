@@ -1,6 +1,7 @@
 
 public class Ejercicios
 {
+	// en estos ejercicios ingeniero declaramos con un a condicion int y con el return nos tirara el resultado de lo que declaramos con int 
 	//devuelve la suma de x y y
 	static int sumar(int x, int y)
 	
@@ -28,7 +29,7 @@ public class Ejercicios
 		int resultado = x%y;
 		return resultado;
 	}
-	
+	// con esta colocamos la condicion if para ver si se cumple o no la condicion y nos tirara verdadero o falso
 	//devuelve true si x es par, de lo cotrario devuelve false
 	static boolean esPar(int x)
 	{
@@ -38,7 +39,7 @@ public class Ejercicios
 		}
 		return false;
 	}
-	
+	//lo mismo que el anterior 
 	//devuelve true si x es multiplo de 3, de lo cotrario devuelve false
 	static boolean esMultiploDe3(int x)
 	
@@ -111,3 +112,4 @@ public class Ejercicios
 	}
 
 }
+//muchas gracias ingeniero por lo aprendido
